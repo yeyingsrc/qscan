@@ -6,7 +6,7 @@
 
 + 更快的扫描速度，同端口数下速度对比：
 
-KScan
+QScan
 ![img.png](assets/kscan速度.png)
 
 FScan
